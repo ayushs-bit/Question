@@ -168,6 +168,7 @@ public class CircularQueueQuestion
                     break;
                 case 4:
                     obj.highestvalue();
+                    break;
                 case 5:
                     System.exit(0);
                     break;
